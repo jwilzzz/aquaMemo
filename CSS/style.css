@@ -1,0 +1,39 @@
+
+
+A:link {color:blue;}
+A:visited {color:purple;}
+A:active{color:green;}
+A:hover {color:red;}
+
+
+
+body 
+{
+font: 20px "Sans Serif", cursive;
+margin: 0;
+padding: 0;
+}
+
+
+p 
+{
+color: black;
+text-decoration: none; 
+width: 960px;word-wrap: break-word;
+}
+
+
+
+strong 
+{
+color: red; 
+text-decoration: underline;
+}
+
+
+
+h3{
+    display: inline;
+}
+
+
